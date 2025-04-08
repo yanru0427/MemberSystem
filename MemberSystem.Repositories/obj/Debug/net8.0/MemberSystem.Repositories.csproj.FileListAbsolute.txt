@@ -1,0 +1,17 @@
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Repositories.deps.json
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Repositories.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Repositories.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Data.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Models.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Data.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\bin\Debug\net8.0\MemberSystem.Models.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.csproj.AssemblyReference.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.AssemblyInfoInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.AssemblyInfo.cs
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.csproj.CoreCompileInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSy.C9E98FE9.Up2Date
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\refint\MemberSystem.Repositories.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\MemberSystem.Repositories.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Repositories\obj\Debug\net8.0\ref\MemberSystem.Repositories.dll

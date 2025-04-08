@@ -1,0 +1,17 @@
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Data.deps.json
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Data.runtimeconfig.json
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Data.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Data.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Models.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\bin\Debug\net8.0\MemberSystem.Models.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.csproj.AssemblyReference.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.AssemblyInfoInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.AssemblyInfo.cs
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.csproj.CoreCompileInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSy.C18DBF8B.Up2Date
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\refint\MemberSystem.Data.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\MemberSystem.Data.genruntimeconfig.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Data\obj\Debug\net8.0\ref\MemberSystem.Data.dll

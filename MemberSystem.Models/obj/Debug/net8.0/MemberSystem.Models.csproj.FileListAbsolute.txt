@@ -1,0 +1,11 @@
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\bin\Debug\net8.0\MemberSystem.Models.deps.json
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\bin\Debug\net8.0\MemberSystem.Models.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\bin\Debug\net8.0\MemberSystem.Models.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.AssemblyInfoInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.AssemblyInfo.cs
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.csproj.CoreCompileInputs.cache
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\refint\MemberSystem.Models.dll
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\MemberSystem.Models.pdb
+D:\Project\Fubon\MemberSystem\MemberSystem.Models\obj\Debug\net8.0\ref\MemberSystem.Models.dll
